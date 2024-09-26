@@ -41,7 +41,7 @@
     ![打开VSCI根目录](./images/VSCInsidersConfig/1.png)
 2. 在你 `VSCI` 的根目录下新建文件夹 `data`  
     [不知道如何新建文件夹？](./Hopeless.MD)  
-    [什么是根目录](./Crap.MD)
+    [什么是根目录](./Crap.MD/#什么是根目录)
 3. 鼠标左键双击运行 `VSCI` 根目录下的 `Code - Insiders.exe` 如下图所示  
     ![VSCIExe](./images/VSCInsidersConfig/2.png)
 4. 运行 `VSCI` 后如图所示, 点击左侧的 `扩展` 图标  
