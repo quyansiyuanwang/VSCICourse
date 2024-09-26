@@ -2,9 +2,9 @@
 
 ## 目录
 
-1. 什么是浏览器 [浏览器介绍](/Crap.MD/#什么是浏览器)
-2. 什么是官网 [官网介绍](/Crap.MD/#什么是官网)
-3. 什么是下载 [下载介绍](/Crap.MD/#什么是下载)
+1. 什么是浏览器 [浏览器介绍](./Crap.MD/#什么是浏览器)
+2. 什么是官网 [官网介绍](./Crap.MD/#什么是官网)
+3. 什么是下载 [下载介绍](./Crap.MD/#什么是下载)
 4. 如何下载 [下载教程](#如何下载)
 5. 我下载的文件在哪里 [文件位置](#文件位置)
 
@@ -20,9 +20,9 @@
 * 下载`Visual Studio Code Insiders`
   * [点击我跳转到下载页面](<https://code.visualstudio.com/insiders/>)
   * 请如下图点击与`.zip`并齐的`x64`字样进行下载
-  ![VSCIDP](/images/VSCInsidersDownloadPage.png)
+  ![VSCIDP](./images/VSCInsidersDownloadPage.png)
 
-[返回主页面](/README.MD/#下载教程)
+[返回主页面](./README.MD/#下载教程)
 
 ### 文件位置
 
@@ -39,6 +39,6 @@
   5. 请`记住这个位置`或`保留这个窗口`
 
   * 如下图所示
-  ![FileInExplorer](/images/FileInExplorer.png)
+  ![FileInExplorer](./images/FileInExplorer.png)
 
-[返回主页面](/README.MD/#下载教程)
+[返回主页面](./README.MD/#下载教程)

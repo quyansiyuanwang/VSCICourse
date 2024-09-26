@@ -30,4 +30,4 @@
 * 假设一个软件叫做“SoftwareA”，它的根目录就是软件A所在的文件夹，用户可以通过根目录访问软件A的所有文件和文件夹。
 * 存在C:/Program Files/SoftwareA/A.exe这样的路径，其中C:/Program Files/SoftwareA/是A的根目录
 
-[返回主页面](/README.MD)
+[返回主页面](./README.MD)
